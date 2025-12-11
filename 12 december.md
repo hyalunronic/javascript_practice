@@ -1,0 +1,1 @@
+today learnt basic console and log in javascript
